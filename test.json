@@ -1,16 +1,7 @@
 {
   "spider": "https://github.com/lookming1566/test/blob/main/custom_spider.jar;md5;0111bf77b42bfb642dd8217dc6606828",
-  "wallpaper": "https://xhdwc.tk/api/img.php",
-  "warningText": "FM影视提醒您：接口已经更新，请刷新后再使用。",
   "lives": [
-    {
-      "name": "FM影视•综合",
-      "type": 0,
-      "url": "http://fmys.top/lib/tvlive.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+   
   ],
   "sites": [
     {
@@ -23,5 +14,5 @@
     }
 
   ]
-  
+
 }
