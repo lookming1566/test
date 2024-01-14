@@ -1,5 +1,5 @@
 {
-    "spider": "http://10.0.0.185/main.html?download&weblink=f0a6d9cc76507257e85a545198a1cd36&realfilename=custom_spider.jar;",
+    "spider": "https://raw.githubusercontent.com/lookming1566/test/main/custom_spider.jar;",
     "sites": [
        {
         "key": "spider",
