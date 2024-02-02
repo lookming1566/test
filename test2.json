@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.com/lookming1566/test/main/custom_spider.jar;",
+    "spider": "https://github.com/lookming1566/test/raw/main/custom_spider.jar;",
     "sites": [
        {
         "key": "spider",
